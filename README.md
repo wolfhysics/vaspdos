@@ -1,5 +1,11 @@
 # vaspdos
  Atom-spesific Projected LDOS plot for VASP output
+ **WARNING:** This code is still in development. Many bugs and wrong results may happen. Please use with care.
+
+## Requirements
+ 1. python3
+ 2. numpy
+ 3. matplotlib
 
 ## How to use
  In VASP job directory, run
