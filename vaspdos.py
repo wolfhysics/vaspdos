@@ -1,7 +1,9 @@
 # code by Farrel Dzaudan Naufal, 13318048
 # CMD-QE Laboratory, Engineering Physics Department, Institut Teknologi Bandung
 # for free use and distribution
-# Rev 12/11/2021, Ver 1.0       Currently only works for:
+# Rev 17/11/2021, Ver 1.0       Currently only works for:
+#                               1. Plotting 1 atom LDOS for s and p orbitals 
+#                               2. Calculation must be spin polarized
 
 
 def main(argv = None):
